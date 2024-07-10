@@ -17,11 +17,22 @@
         },
          {   "id":2,
             "name":"Ali",
-            "photos":"photos/2.jpg"
-        },
+            "photos":"photos/2.jpg",
+        "courses":[
+        {
+                "id":2,
+            "name":"volyball"
+        }
+    ]},
         {   "id":3,
         "name":"aya",
-        "photos":"photos/3.jpg"
+        "photos":"photos/3.jpg",
+        "courses":[
+        {
+                "id":3,
+            "name":"pool"
+        }
+    ]
     }
     
 ]
