@@ -1,0 +1,28 @@
+{
+    "status":true,
+    "data": [ 
+        {
+        "id": 1,
+        "name":"haidar",
+        "courses":[
+        {
+                "id":1,
+            "name":"basketball"
+        },
+        {
+            "id":2,
+            "name":"Football"
+        }
+            ]
+        },
+         {   "id":2,
+            "name":"Ali",
+            "photos":"photos/2.jpg"
+        },
+        {   "id":3,
+        "name":"aya",
+        "photos":"photos/3.jpg"
+    }
+    
+]
+}
